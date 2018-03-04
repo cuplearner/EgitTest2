@@ -6,6 +6,7 @@ public class EgitTest2 {
 		// TODO Auto-generated method stub
 		System.out.println("egittest2");
 		System.out.println("123123");
+		System.out.println("aaaaaaaa");
 	}
 
 }
